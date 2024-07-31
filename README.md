@@ -1,1 +1,2 @@
 # Movie_recommender_system
+This project is a Movie Recommender System that suggests movies to users based on their preferences. It uses content-based filtering to generate recommendations by analyzing the features of movies, such as genre, director, and cast. The system is built with a Python backend, utilizing Pandas for data manipulation, and a Streamlit frontend for a simple and interactive user interface.
